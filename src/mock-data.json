@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "Accountname": "Jenny Chan",
+    "CreditAmount": "300",
+    "DebitAmount": "330"
+  },
+  {
+    "id": 2,
+    "Accountname": "account 3",
+    "CreditAmount": "600",
+    "DebitAmount": "320"
+  },
+  {
+    "id": 3,
+    "Accountname": "account 4",
+    "CreditAmount": "620",
+    "DebitAmount": "310"
+  }
+
+]
